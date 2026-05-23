@@ -374,7 +374,7 @@ a {
    HERO
    ============================================ */
 .hero {
-  background: url(/images/hero-fon.png) center center / cover no-repeat;
+  background: url(../images/hero-fon.png) center center / cover no-repeat;
   padding: 60px 0 50px;
   overflow: hidden;
   position: relative;
